@@ -5,5 +5,6 @@ Metadatos: El dataset resultante contiene informacion sobre Metropolis, Mean Sof
 Autores: Bruno Bonfrisco, Franco Seveso
 
 Autores de las fuentes de datos: 
-Cost of Living Index by City 2022 - koustubhk (Owner), 2022 ,https://www.kaggle.com/datasets/kkhandekar/cost-of-living-index-by-city-2022?resource=download
-;Division of Occupational Employment and Wage Statistics, One occupation for multiple geographical areas - Computer and Mathematical Occupations ,https://data.bls.gov/oes/#/occGeo/One%20 occupation%20for%20multiple%20 geographical%20 areas
+  Cost of Living Index by City 2022 - koustubhk (Owner), 2022 ,https://www.kaggle.com/datasets/kkhandekar/cost-of-living-index-by-city-2022?resource=download
+
+  Division of Occupational Employment and Wage Statistics, One occupation for multiple geographical areas - Computer and Mathematical Occupations ,https://data.bls.gov/oes/#/occGeo/One%20occupation%20for%20multiple%20geographical%20areas
